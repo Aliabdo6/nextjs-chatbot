@@ -1,4 +1,3 @@
-import { FaRobot } from "react-icons/fa";
 import ChatInterface from "../components/ChatInterface";
 
 export default function Home() {
